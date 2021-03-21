@@ -45,5 +45,3 @@ while True:
           f"{cinco} notas de 5\n"
           f"{dois} notas de 2\n"
           f"{um} moedas de 1\n")
-
-
